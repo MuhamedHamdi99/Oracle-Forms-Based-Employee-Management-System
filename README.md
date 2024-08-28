@@ -14,7 +14,7 @@
 - Download the Project:
 Clone or download the project repository from GitHub to your local machine.
 
--Install Oracle Software:
+- Install Oracle Software:
 Ensure you have Oracle Forms and Reports Builder installed on your PC.
 Install Toad or any other database client for connecting to your Oracle database.
 
